@@ -1,0 +1,7 @@
+{
+  "name": "Chunilal Diagnostic Centre & Nursing Home",
+  "description": "Comprehensive responsive website and content management admin portal for Chunilal Diagnostic Centre, Polyclinic and Nursing Home with doctor schedules, test catalog, appointment booking, and live admin updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
